@@ -149,9 +149,7 @@ export default {
                 this.$router.push('/view')
               
 
-                // this.$store.dispatch('addStocksAction',stocksData)
-                // // console.log(stocksData);
-                // this.$router.push('/view')
+                
             }
     
    
